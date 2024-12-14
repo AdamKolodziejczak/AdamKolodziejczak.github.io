@@ -1,1 +1,34 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylessheet" href="styles.css">
+    <title>Main</title>
+</head>
+
+<body>
+    <div>
+        <script src="js/three.min.js"></script>
+        <script src="js/vanta.birds.min.js"></script>
+        <script>
+        VANTA.BIRDS({
+          el: "css/styles.css",
+          mouseControls: true,
+          touchControls: true,
+          gyroControls: false,
+          minHeight: 200.00,
+          minWidth: 200.00,
+          scale: 1.00,
+          scaleMobile: 1.00,
+          backgroundColor: 0x2b3143,
+          color1: 0xfffb,
+          color2: 0x0,
+          speedLimit: 6.00,
+          separation: 21.00,
+          alignment: 26.00,
+          cohesion: 27.00
+        })
+        </script>
+    </div>
+</body>
+</html>
