@@ -1,0 +1,22 @@
+html{
+    font-family: Helvetica;
+}
+
+
+body{
+    margin: 0;
+    background-color: lightskyblue;
+}
+
+#main{
+    height: 100vh;
+    width: 100vw;
+    padding: 30px;
+}
+
+h1{
+    color: white;
+    letter-spacing: .07em;
+    font-weight: bold;
+    text-align: center;
+}
