@@ -42,7 +42,7 @@ h1{
     position: absolute;
     z-index: 10;
     left: 75vw;
-    top: 30vh;
+    top: 38vh;
     padding: 10px;
     animation: float 4s infinite alternate-reverse ease-in-out;
     animation-delay: 1s;
@@ -66,12 +66,72 @@ h1{
     position: absolute;
     z-index: 10;
     left: 60vw;
-    top: 65vh;
+    top: 60vh;
     padding: 10px;
     animation: float 4s infinite alternate-reverse ease-in-out;
     animation-delay: 3s;
     width: 15vw;      
     height: 15vh; 
+}
+
+#skill_5{
+    position: absolute;
+    z-index: 10;
+    left: 55vw;
+    top: 20vh;
+    padding: 10px;
+    animation: float 4s infinite alternate-reverse ease-in-out;
+    animation-delay: 2.5s;
+    width: 15vw;      
+    height: 15vh; 
+}
+
+#skill_6{
+    position: absolute;
+    z-index: 10;
+    left: 15vw;
+    top: 45vh;
+    padding: 10px;
+    animation: float 4s infinite alternate-reverse ease-in-out;
+    animation-delay: 3.5s;
+    width: 15vw;      
+    height: 15vh; 
+}
+
+#skill_7{
+    position: absolute;
+    z-index: 10;
+    left: 5vw;
+    top: 65vh;
+    padding: 10px;
+    animation: float 4s infinite alternate-reverse ease-in-out;
+    animation-delay: 1.5s;
+    width: 15vw;      
+    height: 15vh; 
+}
+
+#skill_8{
+    position: absolute;
+    z-index: 10;
+    left: 80vw;
+    top: 65vh;
+    padding: 10px;
+    animation: float 4s infinite alternate-reverse ease-in-out;
+    animation-delay: 0.5s;
+    width: 15vw;      
+    height: 15vh; 
+}
+
+#skill_9{
+    position: absolute;
+    z-index: 10;
+    left: 40%;
+    top: 40vh;
+    padding: 10px;
+    animation: float 4s infinite alternate-reverse ease-in-out;
+    animation-delay: 3.5s;
+    width: 20vw;      
+    height: 20vh; 
 }
 
 .cloud_images{
